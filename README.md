@@ -1,4 +1,5 @@
 
 # Self Introduction Project in Django
 
-This project is the practice project of Django framework. It explain my skills, my abilities and my previous projects. It is good practice and i learn alot of about python programming and this web framework.
+This project is the practice project of Django framework. It explain my skills, my abilities and my previous projects. It is good practice and I learn alot of about python programming and this web framework.
+I hope to gain more knowledge.
